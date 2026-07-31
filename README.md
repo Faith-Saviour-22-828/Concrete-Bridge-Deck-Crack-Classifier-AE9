@@ -62,7 +62,3 @@ contributions.
 ## Citation
 Ozgenel, C.F. (2019), "Concrete Crack Images for Classification", Mendeley Data, V2,
 doi: 10.17632/5y9wdsg2zt.2. Licensed under CC BY 4.0.
-
-
-from google.colab import files
-files.download('README.md')
