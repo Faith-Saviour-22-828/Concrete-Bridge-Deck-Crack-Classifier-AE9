@@ -58,6 +58,18 @@ Deployed on **Streamlit Community Cloud**: `https://<your-app-name>.streamlit.ap
 ## Team
 See the notebook header for the full list of team members, registration numbers, and individual
 contributions.
+| Name | Registration Number | GitHub Username |
+|---|---|---|
+| FAITH BEN SAVIOUR | 22/EG/AE/828 | Precious-Okpo-23-004 |
+| UDOM UDEME UDEME | 22/EG/AE/778 | Udom-Udeme-22-778 |
+| WILLIAM GOD'SWILL EDET  | 23/EG/AE/038 | Godswill-William-23-038 |
+| AKPAN EKEMINI MFON | 22/EG/AE/808 | Ekemini-Akpan-22-808 |
+| EKERETTE NDIKPONKE ANIEFIOK | 23/EG/AE/018 | Ndikponke-Ekerette-23-018 |
+| OKON DONALD EDET | 22/EG/AE/788  | Donald-Okon-22-788 |
+| BENJAMIN RICHARD OFFIONG  | 23/EG/AE/008 | Precious-Okpo-23-004 |
+| BASSEY ISRAEL ESSIEN  | 22/EG/AE/798 | Israel-Bassey-22-798 |
+| GIDEON EDIMA GEORGE | 23/EG/AE/028 | Gideon-George-23-028 |
+
 
 ## Citation
 Ozgenel, C.F. (2019), "Concrete Crack Images for Classification", Mendeley Data, V2,
