@@ -58,7 +58,7 @@ Deployed on **Streamlit Community Cloud**: `https://<your-app-name>.streamlit.ap
 ## Team
 See the notebook header for the full list of team members, registration numbers, and individual
 contributions.
-UDOM UDEME UDEME | 22/EG/AE/778 | Udom-Udeme-22-778
+
 | Name | Registration Number | GitHub Username |
 |---|---|---|
 | FAITH BEN SAVIOUR | 22/EG/AE/828 | Faith-Saviour-22-828 |
